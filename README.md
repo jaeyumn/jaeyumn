@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyumn)](https://github.com/anuraghazra/github-readme-stats)
+ <div>
+  <a href="https://github.com/jaeyumn"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jaeyumn&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyumn&layout=compact&theme=rose_pine" alt="Top Langs" height="175">
+</div>
