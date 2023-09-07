@@ -1,25 +1,20 @@
 ### Hi there 👋
 
+<br/>
+
+## 📣 GitHub stats
+[![Kim Jaeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyumn&theme=dracula)]()
 <!--
-**jaeyumn/jaeyumn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+아이콘 추가하면 commit 내역 덜뜨는 문제
+[![Kim Jaeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyumn&show_icons=true&theme=dracula)]()
 -->
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyumn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyumn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<br/>
+
+## 🏅 Baekjoon solved rank
 <div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla">
 </div>
