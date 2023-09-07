@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <a href="https://github.com/jaeyumn">
-  <img src="./static/giphy.gif" width="300"/>
+  <img src="./static/giphy.gif" width="200"/>
 </a>
 
 <div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla"/>
 </div>
 
 <!--
