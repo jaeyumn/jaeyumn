@@ -2,8 +2,12 @@
 <a href="https://github.com/jaeyumn"><img src="./static/giphy.gif" width="200"/></a>
  
 <!-- introduce -->
-- 하이여ㅑ
-- Hi there
+<!--
+Growth is a process of constant development and challenge for me, and when I take on challenges and achieve my goals, I gain the driving force for learning and growth.
+
+Welcome to my profile.
+I'm looking forward to working with you.
+-->
 
 <br>
 
