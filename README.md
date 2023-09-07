@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/jaeyumn">
+  <img src="./static/giphy.gif" width="300"/>
+</a>
 
 <div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla">
 </div>
-
-<br/>
 
 <!--
 ### 📣 GitHub stats
