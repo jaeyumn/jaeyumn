@@ -3,7 +3,7 @@
  
 <!-- introduce -->
 - 하이여ㅑ
-- hiiii
+- Hi there
 
 <br>
 
