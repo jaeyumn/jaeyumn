@@ -4,7 +4,7 @@
 <!-- introduce -->
 안녕하세요 👋
 
-I am a junior developer, and very interested in developing user-oriented services through communication with users.
+I'm a junior developer, and very interested in developing user-oriented services through communication with users.
 
 I listen to and accept other people's opinions and advice. I veiw critical perspectives as oppurtunities for improvement, and through feedback, I look for directions in which I can grow.
 
