@@ -27,9 +27,8 @@ Thanks for stopping by!
 -->
 
 <!-- Baekjoon badge -->
-<div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla"/>
-</div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla" width="350" height="auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyumn&layout=compact" width="350" height="auto" />
 
 <!--
 ### 📣 GitHub stats
