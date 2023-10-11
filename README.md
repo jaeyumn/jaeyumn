@@ -1,8 +1,6 @@
-
-<a href="https://github.com/jaeyumn"><img src="./static/giphy.gif" width="200"/></a>
- 
 <!-- introduce -->
-안녕하세요 👋
+### Hi there 안녕하세요 👋
+<a href="https://github.com/jaeyumn"><img src="./static/giphy.gif" width="200"/></a>
 
 <br/>
 
