@@ -6,7 +6,7 @@
 
 <!-- Skill Stack -->
 ## ⚙️ Skill
-<div align=center>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -21,5 +21,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </div>
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla" width="350" height="auto" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyumn&layout=compact" width="350" height="auto" />
+<br/>
+
+<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla" width="400" height="auto" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyumn&layout=compact" width="400" height="auto" />
