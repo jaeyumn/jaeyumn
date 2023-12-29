@@ -25,6 +25,6 @@
 -->
 <hr>
 
-<!-- <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla" width="350" height="auto" /> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyumn&layout=compact" width="350" height="auto" />
--->
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrngodsla" width="350" height="auto" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyumn&layout=compact" width="350" height="auto" />
+
