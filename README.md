@@ -3,7 +3,13 @@
 <a href="https://github.com/jaeyumn"><img src="./static/giphy.gif" width="200"/></a>
 
 <br/>
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jaeyumn"
+  width="600"
+  height="300"
+/>
+</a>
 <!-- Skill Stack -->
 <!-- ## ⚙️ Skill
 <div align="">
