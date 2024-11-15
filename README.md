@@ -1,14 +1,17 @@
 <!-- introduce -->
 ### Hi there 안녕하세요 👋
 <!-- <a href="https://github.com/jaeyumn"><img src="./static/giphy.gif" width="200"/></a> -->
-<br/>
-<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/jaeyumn"
   width="600"
   height="300"
 />
-</a>
+<img
+  src="https://render.gitanimals.org/lines/jaeyumn"
+  width="600"
+  height="120"
+/>
+  
 <!-- Skill Stack -->
 <!-- ## ⚙️ Skill
 <div align="">
