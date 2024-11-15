@@ -1,11 +1,11 @@
 <!-- introduce -->
 ### Hi there 안녕하세요 👋
 <!-- <a href="https://github.com/jaeyumn"><img src="./static/giphy.gif" width="200"/></a> -->
-<img
+<!-- <img
   src="https://render.gitanimals.org/farms/jaeyumn"
   width="600"
   height="300"
-/>
+/> -->
 <img
   src="https://render.gitanimals.org/lines/jaeyumn"
   width="600"
